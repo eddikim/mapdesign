@@ -30,4 +30,4 @@ tile layers shown in this assignment illustrate how the city can be viewed in mo
 - Visualizes the city of Seattle in a streets style with a minimum zoom of 1 and maximum zoom of 9
 
 ### Link to Web Map
-[Web Map](http://127.0.0.1:5500/index.html)
+[Map of Seattle](http://127.0.0.1:5500/index.html)
