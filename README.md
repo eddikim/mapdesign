@@ -13,13 +13,13 @@ tile layers shown in this assignment illustrate how the city can be viewed in mo
 
 ## Map 2: Outdoors
 
-![out](mapdesign/img/out.png)
+<img src="https://github.com/eddikim/mapdesign/blob/main/img/navi.png"
 
 - Visualizes the city of Seattle in an outdoors style with a minimum zoom of 1 and maximum zoom of 9
 
 ## Map 3: Navigation
 
-![navi](mapdesign/img/navi.png)
+
 
 <img width="998" alt="outdoors" src="https://user-images.githubusercontent.com/119153928/220550440-d2fcedf2-04b1-457d-a2fc-daf0c90655fc.png">
 
